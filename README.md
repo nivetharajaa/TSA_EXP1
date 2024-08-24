@@ -1,6 +1,6 @@
 ###  Developed by : Nivetha A
 ### Register No : 212222230101
-### Data:
+### Date:
 
 # Ex.No: 01A PLOT A TIME SERIES DATA
 
