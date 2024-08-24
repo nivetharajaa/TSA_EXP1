@@ -36,4 +36,4 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/14da74a3-5113-46ad-b27a-ee521972a9e4)
 
 # RESULT:
-Thus we have created the python code for plotting the time series of given data.
+Thus we have successfully created the python code for plotting the time series of the given data.
